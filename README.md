@@ -1,2 +1,2 @@
-# Lenguaje-C
-Ejercicios y Ejemplos del lenguaje de programacion C
+# Lenguaje-C/C++
+Ejercicios y Ejemplos del lenguaje de programacion C/C++
